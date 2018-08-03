@@ -1,0 +1,12 @@
+/*div{
+	border:1px solid black;
+}*/
+
+.tall{
+	height: 100vh;
+	background-image: url(face.jpg)
+}
+
+.down{
+	height: 40vh;
+}
